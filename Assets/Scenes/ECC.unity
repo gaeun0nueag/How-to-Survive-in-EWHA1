@@ -507,7 +507,7 @@ GameObject:
   - component: {fileID: 187935566}
   - component: {fileID: 187935565}
   m_Layer: 5
-  m_Name: image_for_navi
+  m_Name: image_for_HINT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -583,7 +583,7 @@ GameObject:
   - component: {fileID: 220688730}
   - component: {fileID: 220688729}
   m_Layer: 5
-  m_Name: Navi_button
+  m_Name: HINT_button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -978,7 +978,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uAE38\uCC3E\uAE30"
+  m_text: "\uD78C\uD2B8\uBCF4\uAE30\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 37a36f56f353cf84a829f67f1c3bb9d9, type: 2}
   m_sharedMaterial: {fileID: -8270687932901973016, guid: 37a36f56f353cf84a829f67f1c3bb9d9, type: 2}
@@ -2647,7 +2647,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uD78C\uD2B8\uBCF4\uAE30"
+  m_text: "\uAE38\uCC3E\uAE30"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 37a36f56f353cf84a829f67f1c3bb9d9, type: 2}
   m_sharedMaterial: {fileID: -8270687932901973016, guid: 37a36f56f353cf84a829f67f1c3bb9d9, type: 2}
@@ -3750,7 +3750,7 @@ GameObject:
   - component: {fileID: 1324327409}
   - component: {fileID: 1324327408}
   m_Layer: 5
-  m_Name: Hint_button
+  m_Name: NAVI_button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5430,7 +5430,7 @@ GameObject:
   - component: {fileID: 2139217620}
   - component: {fileID: 2139217619}
   m_Layer: 5
-  m_Name: image_for_hint
+  m_Name: image_for_NAVI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
